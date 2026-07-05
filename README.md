@@ -1,7 +1,6 @@
  👋 Hi, I’m M Saad H
 
- 🌱 I’m currently learning ***Data Science*** at Shri Ramdeobaba College of Engineering and Management
-
+ 🌱 I’m currently working at ***IBM*** as a ***ASE*** and ***Application Developer***
 <br>
 📫 How to reach me :
 <br> Email : m.saadh264@gmail.com
